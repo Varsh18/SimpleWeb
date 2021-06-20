@@ -1,1 +1,1 @@
-console.log('this is feature 2 script file');
+console.log('this is feature 2 script file test');
